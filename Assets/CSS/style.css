@@ -1,0 +1,33 @@
+#game { 
+	background-color: blue;
+		color:#000000;			
+		border: 4px solid #000000;
+		text-align: center ;
+	}
+p {
+	font-size : 25px;
+	font-weight: bold;
+	text-transform: capitalize;
+	padding: 10px, 10px, 10px, 10px;
+
+}
+
+#title{
+		color: blue; 
+		background-color: black;
+		text-align:center;
+		font-size: 50px ;
+		font-color: black;
+}
+
+body { 
+		background-color :black;
+		text-align: center;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 40px;
+	text-transform: capitalize;																			;
+	padding: :10px;
+}
